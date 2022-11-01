@@ -16,7 +16,7 @@
   <img src="https://leechgroupbymg.mguplodertelegram.workers.dev/0:/file_109.jpg" alt="MGREBORN Bot Logo">
 </p>
 <h1 align="center">
-  <b>GreyMatter's Bot</b>
+  <b>MGREBORN Bot</b>
 </h1>
 
 
